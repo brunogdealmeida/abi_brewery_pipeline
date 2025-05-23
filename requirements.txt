@@ -1,0 +1,11 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+
+pyspark
+requests
+backoff==2.2.1
+pandas==2.1.4
+python-json-logger==2.0.7
+streamlit==1.31.1
+plotly==5.18.0
+
+

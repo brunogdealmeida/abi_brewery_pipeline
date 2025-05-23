@@ -1,0 +1,44 @@
+{
+    "layer_results": {
+        "bronze": {
+            "layer": "bronze",
+            "checks": {
+                "null_checks": {
+                    "id": {
+                        "null_count": 0,
+                        "null_percentage": 0.0
+                    }
+                }
+            },
+            "total_records": 50
+        },
+        "silver": {
+            "layer": "silver",
+            "checks": {
+                "duplicates": {
+                    "count": 0,
+                    "percentage": 0.0
+                },
+                "website_url_format": {
+                    "valid_count": 39,
+                    "invalid_count": 11,
+                    "valid_percentage": 78.0
+                }
+            },
+            "total_records": 50
+        },
+        "gold": {
+            "layer": "gold",
+            "checks": {
+                "brewery_type_validation": {
+                    "valid_count": 36,
+                    "invalid_count": 0,
+                    "valid_percentage": 100.0
+                }
+            },
+            "total_records": 36
+        }
+    },
+    "execution_date": "2025-05-23T17:19:35.653337",
+    "overall_success": false
+}

@@ -1,0 +1,11 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,longitude,latitude,phone,website_url,state,street
+9c5a66c8-cc13-416f-a5d9-0a769c87d318,(512) Brewing Co,micro,407 Radam Ln Ste F200,,,Austin,Texas,78745-1197,United States,,,5129211545,http://www.512brewing.com,Texas,407 Radam Ln Ste F200
+d81ff708-b5d2-478f-af6a-6d40f5beb9ac,12 Gates Brewing Company,brewpub,80 Earhart Dr Ste 20,,,Williamsville,New York,14221-7804,United States,,,7169066600,http://www.12gatesbrewing.com,New York,80 Earhart Dr Ste 20
+fb94830f-6196-4f59-9189-c9060b778085,12 West Brewing Company,micro,3000 E Ray Rd Bldg 6,,,Gilbert,Arizona,85296-7832,United States,,,6023395014,http://www.12westbrewing.com,Arizona,3000 E Ray Rd Bldg 6
+50521ef7-f543-4c5d-98b1-0d0ee1a2be01,12welve Eyes Brewing,micro,141 E 4th St Ste LL2,,,Saint Paul,Minnesota,55101-1639,United States,,,6514938106,http://www.12welveEyes.com,Minnesota,141 E 4th St Ste LL2
+45119c56-345b-4adc-b481-c5cf7bfe98c4,13 Stripes Brewery,brewpub,"250 Mill St, Suite PW3101",,,Taylors,South Carolina,29687,United States,,,8643491430,http://www.13StripesBrewery.com,South Carolina,"250 Mill St, Suite PW3101"
+5c53b314-ebab-4e3e-89be-e4139d9318ae,1323 R & D,micro,1323 Capital Blvd 1323 R and D,,,Raleigh,North Carolina,27603-1117,United States,,,9199775654,http://www.1323rnd.com,North Carolina,1323 Capital Blvd 1323 R and D
+b7b68d22-5045-4501-b9bf-ec94946eaffc,14 Lakes Brewery,micro,,,,Crosslake,Minnesota,56442,United States,,,2186924129,,Minnesota,
+6c53984f-fac1-4ea7-9c44-44e25897c71a,14th Star Brewing,micro,133 N Main St Ste 7,,,Saint Albans,Vermont,05478-1735,United States,,,8025285988,http://www.14thstarbrewing.com,Vermont,133 N Main St Ste 7
+d35b40b0-a3ff-4878-a6ee-9caa2149b521,"1623 Brewing CO, llc",contract,1146 colonel Joshua Ct,,,Westminister,Maryland,21157,United States,,,,,Maryland,1146 colonel Joshua Ct
+84d621c4-81a5-44e6-aca7-1566c2e67cc0,1781 Brewing Company,micro,11109 Plank Rd,,,Spotsylvania,Virginia,22553-4258,United States,,,5408412598,,Virginia,11109 Plank Rd
